@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600');
+
+.back{
+  background-color: #FDE758;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#columna{
+  display: flex;
+  flex-direction: column;
+}
+
+#título{
+  font-family: Montserrat;
+  font-style: semibold;
+  font-size: 24px;
+  line-height: 29px;
+  color: #4B9CD6;
+  text-align: center;
+  margin-bottom: 17.5px;
+}
+
+#botónFacebook{
+  background-color: #FFFFFF;
+  width: 219px;
+  height: 66px;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 17.5px;
+  margin-bottom: 17.5px;
+}
+
+
+#botónTwitter{
+  background-color: #FFFFFF;
+  width: 219px;
+  height: 66px;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 17.5px;
+  margin-bottom: 17.5px;
+  align-items: center;
+}
+
+#botónCorreo{
+  background-color: #FFFFFF;
+  width: 219px;
+  height: 66px;
+  border-radius: 7px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 17.5px;
+  align-items: center;
+}
