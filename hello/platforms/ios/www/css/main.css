@@ -61,3 +61,14 @@
   margin-top: 17.5px;
   align-items: center;
 }
+
+
+.retosdetalles{
+  width:317px;
+  height: 74px;
+  border:1px solid #dadada;
+  border-radius: 10px;
+  margin:15px;
+  box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+
+}
